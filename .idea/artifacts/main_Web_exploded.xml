@@ -11,7 +11,7 @@
           <element id="library" level="project" name="commons-lang" />
           <element id="library" level="project" name="jersey-1.17.1" />
           <element id="library" level="project" name="logback" />
-          <element id="library" level="project" name="atmosphere" />
+          <element id="library" level="project" name="atmosphere-1.0.12" />
         </element>
       </element>
       <element id="dir-copy" path="$PROJECT_DIR$/main/static" />

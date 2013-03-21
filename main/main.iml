@@ -35,7 +35,7 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="atmosphere" level="project" />
+    <orderEntry type="library" name="atmosphere-1.0.12" level="project" />
   </component>
 </module>
 

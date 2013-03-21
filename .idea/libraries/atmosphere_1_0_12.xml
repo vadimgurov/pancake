@@ -1,5 +1,5 @@
 <component name="libraryTable">
-  <library name="atmosphere">
+  <library name="atmosphere-1.0.12">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/lib/atmosphere" />
     </CLASSES>
