@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jersey-1.17.1-test">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/jersey-1.17.1-test" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jersey-1.17.1-test/jersey-test-framework-core-1.17.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-1.17.1-test/jersey-test-framework-core-1.17.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-1.17.1-test/jersey-test-framework-inmemory-1.17.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-1.17.1-test/jersey-test-framework-inmemory-1.17.1-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jersey-1.17.1-test" recursive="false" />
+  </library>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jersey-1.17.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/jersey-1.17.1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/jersey-1.17.1" />
+      <root url="jar://$PROJECT_DIR$/lib/jersey-1.17.1/jersey-json-1.17.1-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jersey-1.17.1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lib/jersey-1.17.1" recursive="false" type="SOURCES" />
+  </library>
+</component>

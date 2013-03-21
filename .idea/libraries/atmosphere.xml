@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="atmosphere">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib/atmosphere" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-annotations-1.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-annotations-1.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-jersey-1.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-jersey-1.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-runtime-1.0.12-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/atmosphere/atmosphere-runtime-1.0.12-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib/atmosphere" recursive="false" />
+  </library>
+</component>
