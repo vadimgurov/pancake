@@ -9,7 +9,7 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import java.net.URI;
 
-@Path("/")
+@Path("/chat")
 @Produces("application/json")
 public class RootResource {
 

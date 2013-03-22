@@ -8,11 +8,14 @@ $(function () {
     var author = null;
     var logged = false;
     var socket = $.atmosphere;
-    var request = { url: document.location.toString() + 'chat',
+    var request = { url: 'http://localhost:8080/pancake/chat',
         contentType : "application/json",
         logLevel : 'debug',
         transport : 'websocket' ,
-        fallbackTransport: 'long-polling'};
+        fallbackTransport: 'long-polling',
+        readResponsesHeaders : false,
+        enableXDR : true
+    };
 
 
     request.onOpen = function(response) {

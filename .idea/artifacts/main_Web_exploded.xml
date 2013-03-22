@@ -14,7 +14,6 @@
           <element id="library" level="project" name="atmosphere-1.0.12" />
         </element>
       </element>
-      <element id="dir-copy" path="$PROJECT_DIR$/main/static" />
     </root>
   </artifact>
 </component>
