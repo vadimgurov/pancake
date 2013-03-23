@@ -11,7 +11,7 @@ $(function () {
     var request = { url: 'http://localhost:8080/pancake/chat',
         contentType : "application/json",
         logLevel : 'debug',
-        transport : 'websocket' ,
+        transport : 'websocket',
         fallbackTransport: 'long-polling',
         readResponsesHeaders : false,
         enableXDR : true
